@@ -1,0 +1,58 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&family=Poppins:ital,wght@1,400;1,600&family=Roboto+Slab:wght@500&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(138, 19, 92);
+    font-family: 'Roboto Slab', serif;
+    /*ont-family:'Oswald', sans-serif;*/
+    text-align: center;
+}
+/*.text-center{
+    margin: 80px;
+    text-align: center;
+}*/
+
+.box{
+    
+    width: 300px;
+  margin: 34px 6px;
+   background-color: rgb(143, 58, 110);
+  box-shadow: 5px 8px rgb(155, 98, 133);
+  margin-left: 525px;
+  margin-top:100px;
+  border-radius: 28px ;
+  
+    /*background:rgb(55, 100, 158);
+    
+     width: 300px;
+     margin-top: 50px;
+     justify-content: space-around;
+     text-align: center;
+     margin-left: 550px;*/
+    
+     
+}
+.button{
+    background-color: rgb(138, 83, 117);
+    font-family: 'Roboto Slab', serif;
+    margin:2px;
+padding: 20px;
+border: 2px solid black;
+border-radius: 9px;
+cursor: pointer;
+}
+.row{
+
+    margin: 8px 0;
+}
+.row input{
+    background-color:rgb(138, 83, 117) ;
+    font-size: 20px;
+    top:100px;
+    margin:3px;
+    padding: 8px 0;
+    border-radius:5px solid black;
+}
